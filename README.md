@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vipuldhomane
 - 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently learning Data visualization, Data analysis and basics of machine learning algoritums 
+- 🌱 I’m currently learning Data visualization, Data analysis and basics of machine learning algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 You Can follow me on Tweeter @VipulDhomane
 
