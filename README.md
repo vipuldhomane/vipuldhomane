@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vipuldhomane
 - 👀 FrontEnd Devloper
-- 🌱 Laguages known HTML, CSS, JAVASCRIPT, PYTHON
+- 🌱 Laguages known HTML, CSS, JAVASCRIPT, Core Java
+-     Data Structures and Algo
 - 💞️ I’m looking to collaborate on ...
 - 📫 You Can follow me on Tweeter @VipulDhomane
 
