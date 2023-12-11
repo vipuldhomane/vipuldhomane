@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Codial Social-Media Web App](https://github.com/vipuldhomane/Codial-SocialMediaApp)
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB**
+- 🌱 I’m currently learning **MERN Stack Web Development**
 
 - 👯 I’m looking to collaborate on [Codial](https://github.com/vipuldhomane/Codial-SocialMediaApp)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vipuldhomane](https://github.com/vipuldhomane)
 
-- 💬 Ask me about **NodeJs**
+- 💬 Ask me about **React, Nodejs, FullStack Web Development**
 
 - 📫 How to reach me **vipul04@outlook.com**
 
