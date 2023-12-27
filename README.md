@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vipuldhomane" target="blank"><img src="https://img.shields.io/twitter/follow/vipuldhomane?logo=twitter&style=for-the-badge" alt="vipuldhomane" /></a> </p>
 
-- 🔭 I’m currently working on [Codial Social-Media Web App](https://github.com/vipuldhomane/Codial-SocialMediaApp)
+- 🔭 I’m currently working on [Smarty OpenAI ChatBot](https://github.com/vipuldhomane/ChatBot-OpenAI-MERN)
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
